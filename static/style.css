@@ -1,0 +1,29 @@
+h1, h2 {
+    margin: 1em 0;
+}
+
+.form-control li {
+    list-style-type: none;
+}
+
+.pets-listing {
+    margin-bottom: 2em;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.nav-brand {
+    color: darkblue;
+    font-weight: bold;
+}
+
+p {
+    font-size: 20px;
+}
+
+.pet_add_form {
+    margin-top: 10px;
+}
